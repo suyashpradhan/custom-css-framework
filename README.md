@@ -1,7 +1,6 @@
-## A CSS Library called minimalist-css designed and developer by me, give it a try!!!
+## A CSS Library called minimalist-css designed and developed by me, give it a try!!!
 
-Library Website Link:[https://minimalist-css.netlify.app/]
-Download Link : [https://gofile.io/d/JowCwB]
+Here's the link to [Library Website](https://minimalist-css.netlify.app/) and the [Download Link](https://gofile.io/d/JowCwB).
 
 ![poster](dist/images/poster.png)
 
@@ -20,8 +19,8 @@ Download Link : [https://gofile.io/d/JowCwB]
 
 ##### If you want to share your feedback then connect with me on following social accounts
 
-[Linkedin] (https://www.linkedin.com/in/suyashpradhan/)
-[Twitter] (https://twitter.com/SuyashPradhan9)
+[Linkedin](https://www.linkedin.com/in/suyashpradhan/)
+[Twitter](https://twitter.com/SuyashPradhan9)
 
 
 #THANK YOU!!!
